@@ -1,3 +1,8 @@
+// Loader
+$(document).ready(function () {
+    $('.loader').hide();
+});
+
 // Form
 const btnSend = document.querySelector('.send');
 btnSend.addEventListener('click', function () {
