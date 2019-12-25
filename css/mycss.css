@@ -86,6 +86,10 @@ footer {
     font-weight: bold;
 }
 
+.section:hover {
+    color: blueviolet !important;
+}
+
 footer {
     background-color: #ee6e73;
 }
